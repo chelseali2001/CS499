@@ -1,0 +1,61 @@
+%\documentclass[annualconference]{acmsiggraph}
+%\documentclass[annual]{acmsiggraph} % new acmsiggraph.cls
+%\documentclass[preprint]{acmsiggraph}
+%\documentclass[review]{acmsiggraph}
+\NeedsTeXFormat{LaTeX2e}
+
+\input{package}
+\input{macros}
+\input{symbols}
+\input{graphicspath}
+\input{tog}
+
+%\title{Using Paper Drafts to Manage Research Projects}
+\title{Texture Synthesis}
+
+\author{Li-Yi Wei}
+
+\keywords{texture synthesis}
+
+\input{copyright}
+
+\begin{document}
+
+\maketitle
+
+\input{abstract}
+
+\input{ccs}
+
+\keywordlist
+
+\conceptlist
+
+%\printcopyright
+
+\input{introduction}
+\input{method}
+\input{interface}
+\input{implementation}
+
+\bibliographystyle{acmsiggraph}
+{
+\bibliography{paper}
+}
+
+\appendix
+\normalsize
+
+\ifthenelse{\equal{\final}{0}}
+{
+\cleardoublepage
+\pagenumbering{roman}
+
+\input{note}
+\input{prior}
+\input{result}
+\input{conclusion}
+}
+{}
+
+\end{document}

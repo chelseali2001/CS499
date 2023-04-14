@@ -1,0 +1,10 @@
+^D:\CS551\TEXTURE-MASTER\BUILD\CMAKEFILES\1B7CEF0BC8F27F7E624C0BF517F50A47\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/CS551/texture-master -BD:/CS551/texture-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CS551/texture-master/build/Texture.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

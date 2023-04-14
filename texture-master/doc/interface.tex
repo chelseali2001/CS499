@@ -1,0 +1,15 @@
+\section{Usage}
+\label{sec:interface}
+
+The entire code can be compiled via CMake.
+
+Please make sure you have ImageMagick installed, and its bin folder under your path.
+We rely on its convert command extensively for image format conversion and basic image processing.
+Please also install python for running the scripts.
+
+\filename{test.py} is an example Python script for ordinary texture synthesis without constraints.
+
+\filename{urc_test.py} is an example Python script for running the binary test data with various options explained in the comments.
+
+It is best to cmake everything under a \foldername{build} folder in parallel with \foldername{src}, and invoke the script from there.
+

@@ -1,0 +1,117 @@
+﻿  Building Custom Rule D:/CS551/texture-master/src/code/Library/CMakeLists.txt
+  Array.cpp
+  CausalTemplar.cpp
+  CoherenceNeighborhood.cpp
+  CoherenceSynthesizer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\CoherenceSynthesizer.cpp(31): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  Counter.cpp
+  Domain.cpp
+  Exception.cpp
+  FrameBuffer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<FrameBuffer::P2>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\FrameBuffer.cpp(75): message : see reference to function template instantiation 'int Array<FrameBuffer::P2>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\FrameBuffer.cpp(50): message : see reference to class template instantiation 'Array<FrameBuffer::P2>' being compiled
+  Image.cpp
+  Match.cpp
+  Math.cpp
+D:\CS551\texture-master\src\code\Library\Math.cpp(68,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\texture-master\src\code\Library\Math.cpp(72,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\texture-master\src\code\Library\Math.cpp(76,35): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS551\texture-master\src\code\Library\Math.cpp(80,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\texture-master\src\code\Library\Math.cpp(84,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\texture-master\src\code\Library\Math.cpp(88,39): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS551\texture-master\src\code\Library\Math.cpp(92,42): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS551\texture-master\src\code\Library\Math.cpp(106,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS551\texture-master\src\code\Library\Math.cpp(106,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Neighborhood.cpp
+  PlainDomain.cpp
+  PlainNeighborhood.cpp
+  PlainPyramidDomain.cpp
+  Position.cpp
+  Pyramid.cpp
+  PyramidDomain.cpp
+  PyramidNeighborhood.cpp
+D:\CS551\texture-master\src\code\Library\Pyramid.hpp(115,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Pyramid.hpp(114): message : while compiling class template member function 'int Pyramid<TexelPtr>::Size(void) const'
+D:\CS551\texture-master\src\code\Library\PyramidNeighborhood.cpp(47): message : see reference to function template instantiation 'int Pyramid<TexelPtr>::Size(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\TexturePyramid.hpp(19): message : see reference to class template instantiation 'Pyramid<TexelPtr>' being compiled
+  Random.cpp
+D:\CS551\texture-master\src\code\Library\Random.cpp(38,17): warning C4244: 'argument': conversion from 'time_t' to 'long', possible loss of data
+  Generating Code...
+  Compiling...
+  RandomDiffusionSequencer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\RandomDiffusionSequencer.cpp(29): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  RandomShuffleSequencer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\RandomShuffleSequencer.cpp(24): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  RandomSynthesizer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\RandomSynthesizer.cpp(24): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  RandomVisitSequencer.cpp
+  Range.cpp
+  ScanlineSequencer.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\ScanlineSequencer.cpp(22): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  Seamster.cpp
+  SeamSequencer.cpp
+  SeamSynthesizer.cpp
+  Sequencer.cpp
+  SequentialCounter.cpp
+  SquareTemplar.cpp
+  Synthesizer.cpp
+  Templar.cpp
+D:\CS551\texture-master\src\code\Library\Templar.cpp(19,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Texel.cpp
+  Texture.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<FrameBuffer::P3>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\Texture.cpp(27): message : see reference to function template instantiation 'int Array<FrameBuffer::P3>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.cpp(25): message : see reference to class template instantiation 'Array<FrameBuffer::P3>' being compiled
+D:\CS551\texture-master\src\code\Library\VectorRange.hpp(70,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\VectorRange.hpp(69): message : while compiling class template member function 'int VectorRange<int>::Length(void) const'
+D:\CS551\texture-master\src\code\Library\Texture.cpp(121): message : see reference to function template instantiation 'int VectorRange<int>::Length(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.cpp(46): message : see reference to class template instantiation 'VectorRange<int>' being compiled
+  TexturePyramid.cpp
+  ToroidalDomain.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\ToroidalDomain.cpp(27): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  Utility.cpp
+D:\CS551\texture-master\src\code\Library\Utility.cpp(288,64): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Utility.cpp(414,110): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Utility.cpp(522,7): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Utility.cpp(526,7): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Utility.cpp(530,7): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Library\Utility.cpp(641): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+D:\CS551\texture-master\src\code\Library\Pyramid.hpp(115,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Pyramid.hpp(114): message : while compiling class template member function 'int Pyramid<TexelPtr>::Size(void) const'
+D:\CS551\texture-master\src\code\Library\Utility.cpp(343): message : see reference to function template instantiation 'int Pyramid<TexelPtr>::Size(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\TexturePyramid.hpp(19): message : see reference to class template instantiation 'Pyramid<TexelPtr>' being compiled
+  VectorRange.cpp
+  Generating Code...
+  Compiling...
+  Weaver.cpp
+  Generating Code...
+  _rand48.c
+  drand48.c
+  erand48.c
+  srand48.c
+  Generating Code...
+  Library.vcxproj -> D:\CS551\texture-master\build\lib\Debug\Library.lib

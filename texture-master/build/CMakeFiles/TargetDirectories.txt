@@ -1,0 +1,13 @@
+C:/Users/chels/CS499/texture-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chels/CS499/texture-master/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/chels/CS499/texture-master/build/src/CMakeFiles/ALL_BUILD.dir
+C:/Users/chels/CS499/texture-master/build/src/code/CMakeFiles/ALL_BUILD.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Main/CMakeFiles/HelloWorld.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Main/CMakeFiles/Seam.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Main/CMakeFiles/Synth.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Main/CMakeFiles/Tile.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Main/CMakeFiles/ALL_BUILD.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Library/CMakeFiles/Library.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Library/CMakeFiles/ALL_BUILD.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Scripts/CMakeFiles/Script.dir
+C:/Users/chels/CS499/texture-master/build/src/code/Scripts/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/CS551/texture-master/src/code/Main/CMakeLists.txt
+  Seam.cpp
+D:\CS551\texture-master\src\code\Library\Array.hpp(87,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\CS551\texture-master\src\code\Library\Array.hpp(86): message : while compiling class template member function 'int Array<TexelPtr>::Dimension(void) const'
+D:\CS551\texture-master\src\code\Main\Seam.cpp(50): message : see reference to function template instantiation 'int Array<TexelPtr>::Dimension(void) const' being compiled
+D:\CS551\texture-master\src\code\Library\Texture.hpp(20): message : see reference to class template instantiation 'Array<TexelPtr>' being compiled
+  Seam.vcxproj -> D:\CS551\texture-master\build\bin\Debug\Seam.exe
